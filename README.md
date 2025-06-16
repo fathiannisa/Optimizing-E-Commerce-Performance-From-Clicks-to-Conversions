@@ -1,12 +1,12 @@
 # Optimizing-E-Commerce-Performance-From-Clicks-to-Conversions
 # E-Commerce SQL Analytics – Sepi Case Study
 
-## Objective  
+## 🧠 Objective  
 Uncover behavioral insights, performance metrics, and buyer patterns to support decision-making around marketing efficiency, user engagement, and conversion strategy.
 
 ---
 
-## Key Business Questions & SQL Solutions
+## 🔍 Key Business Questions & SQL Solutions
 
 ### 1. First & Last Order Tracking  
 Identified each buyer's first and last order across every shop  
@@ -56,7 +56,7 @@ Calculated conversion rate (CVR) and click-through rate (CTR) per shop
 
 ---
 
-## SQL Skills & Concepts Applied
+## 🛠️ SQL Skills & Concepts Applied
 
 | Category              | Techniques Used                                                                 |
 |-----------------------|----------------------------------------------------------------------------------|
@@ -71,5 +71,5 @@ Calculated conversion rate (CVR) and click-through rate (CTR) per shop
 
 ---
 
-## Outcome  
+## 📈 Outcome  
 Built a full-stack SQL analysis pipeline to surface buyer trends, shop performance, and item-level behavior — all with clean, readable, and scalable SQL logic.
