@@ -1,5 +1,4 @@
 # Optimizing-E-Commerce-Performance-From-Clicks-to-Conversions
-# E-Commerce SQL Analytics – Sepi Case Study
 
 ## 🧠 Objective  
 Uncover behavioral insights, performance metrics, and buyer patterns to support decision-making around marketing efficiency, user engagement, and conversion strategy.
